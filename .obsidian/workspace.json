@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1f40dd56edbfaa36",
+        "id": "b1fe910a7bc2045a",
         "type": "tabs",
         "children": [
           {
-            "id": "358ce47293429cd7",
+            "id": "a8def145a8116f67",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "6db3fe4d9ae6bf6b",
@@ -176,6 +176,7 @@
   },
   "active": "fef36cdc2cca4eb2",
   "lastOpenFiles": [
+    "Untitled.md",
     "README.md.md"
   ]
 }
