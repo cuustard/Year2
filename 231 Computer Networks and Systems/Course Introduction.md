@@ -51,7 +51,7 @@ A **Systems Engineering** is a discipline of designing, integrating, and managin
 ---
 ## The Operating System
 
-An [[CPU Virtualisation And The Operating System#The Operating System|Operating System]] (OS) is a software layer that sits between computer hardware and user applications. It manages hardware resources such as the CPU, memory, and devices, and provides services like scheduling, device drivers, and inter-process communication through pipes, message queues, shared memory, and signals. By doing this, it allows multiple processes to share resources safely and offers convenient abstractions for running applications. #keyTermDefinition 
+An [[Virtualisation And The Operating System#The Operating System|Operating System]] (OS) is a software layer that sits between computer hardware and user applications. It manages hardware resources such as the CPU, memory, and devices, and provides services like scheduling, device drivers, and inter-process communication through pipes, message queues, shared memory, and signals. By doing this, it allows multiple processes to share resources safely and offers convenient abstractions for running applications. #keyTermDefinition 
 
 The building blocks of OS's are Virtualisation, Concurrency, Persistence, and Security.
 
