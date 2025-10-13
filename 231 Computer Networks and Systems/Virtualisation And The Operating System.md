@@ -19,6 +19,10 @@ An operating system (OS) is a software layer that acts as an intermediary betwee
 
 It also provides programming abstractions (like files, processes, and memory management) that make it easier and safer for developers to write software without needing to control hardware directly. Additionally, it offers essential services such as process scheduling, which decides which program uses the CPU next, and device drivers, which allow software to communicate with hardware components.
 
+### OS Scheduling
+
+#doitlater 
+
 ## Virtualisation
 
 Virtualisation is a combination of indirection and multiplexing. It's the process of creating a virtual version of a resources (like hardware, OS, network, or storage) so that multiple independent systems or applications can share it as if has its own dedicated resource. #keyTermDefinition 
@@ -92,7 +96,5 @@ When a new process is created, the operating system performs several key steps t
 6. **Initialize CPU registers**
     - The **program counter (PC)** points to the entry function (e.g., `_start`), and other registers are set to known states.
 
-
-## OS Scheduling
 
 #doitlater 
