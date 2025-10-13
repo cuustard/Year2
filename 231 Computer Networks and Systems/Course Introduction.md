@@ -4,73 +4,76 @@ Noted: 06/10/2025 #week1
 > [📊 PowerPoint](CourseIntroduction.pdf)
 > [📽️Lecture Recording](https://lancaster.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b505e5ce-51eb-4587-875c-b363003733b6)
 
-```table-of-contents
-
-```
----
-The module aims to instil a deep understanding of how computer operating systems and network interact to enable the distributed applications that are ubiquitous in the world today and to convey the knowledge and practical experience of internet architecture, network protocols, and operating system principles expected of all computer science graduates.
-
-Term 1 covers:
-- System Design
-- Operating Systems
-- Internet Protocol Stack
-- Application Layer
-- Transport layer
-- Network layer
-- Link Layer
-- Cloud
-
-Term 1 Labs:
-- Processes APIs in the Linux Kernel
-- Introduction to Systems Programming (IPC)
-- Intro to network monitoring and testing
-- Building a network application/intro to mininet
-- coursework support
-- config an OSPF network
-- coursework submission
-
 > [!info] Required Reading
 > [📘 Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 > [📘 Computer Networking: A Top-Down Approach](https://bit.ly/2FunP0a)
 > 
 
-Python focus for this module this year. 70% Exam. Exams in summer term. Any topic in lecture or labs could be in final exam, unless stated otherwise. 30% Coursework. Network application development split into multiple parts about 1 part per week totals 30% 
+```table-of-contents
 
-A system is a collection of components (like hardware or software) that work together to achieve a goal. What makes this collection a system, is the interactions between each component with one another - not just the collection of components itself. Systems engineering involves designing, integrating, and managing complex systems throughout their entire life-cycle.
+```
+---
 
-We'll explore three standard computing systems:
 
-1. Operating Systems
-2. Networks/The Internet
-3. Cloud Infrastructures
+The module aims to instil a deep understanding of how **computer operating systems and networks interact** to enable the distributed applications ubiquitous today. It also provides knowledge and practical experience in **internet architecture, network protocols, and operating system principles**, as expected of all computer science graduates.
+
+Term 1 Topics:
+- **System Design**
+- **Operating Systems**
+- **Internet Protocol Stack**
+- **Application Layer**
+- **Transport Layer**
+- **Network Layer**
+- **Link Layer**
+- **Cloud**
+
+Term 1 Labs:
+- Processes APIs in the Linux Kernel
+- Introduction to Systems Programming (**IPC**)
+- Intro to network monitoring and testing
+- Building a network application / Intro to **Mininet**
+- Coursework support
+- Configuring an **OSPF network**
+- Coursework submission
+
+Assessment:
+- **Python** is the focus for this year
+- **Exam:** 70% (Summer term)
+    - Any lecture or lab topic may appear in the final exam unless explicitly stated otherwise
+- **Coursework:** 30%
+    - Network application development split into weekly parts
+
+
+A **system** is a collection of hardware and/or software components whose interactions enable them to work together to achieve a goal. #keyTermDefinition 
+
+A **Systems Engineering** is a discipline of designing, integrating, and managing complex systems throughout their lifecycle. #keyTermDefinition 
 
 ---
 ## Operating Systems
-#operatingSystems 
 
-Have hardware components/resources like the CPU, memory, and devices. Systems communicate via IPC channels (pipes, message queues, shared memory, signals). The goal is to share resources (e.g. CPU, Memory, disk, devices) across multiple processes
-
-Operating System is like a layer of software that sits between CPU and hardware resources. It gives us an interface. 
-
-An OS (Operating System) is a software layer that sits between hardware and user applications. It manages resources, allows safe and convenient programming abstractions, and provides services like scheduling and device drivers.
+An **Operating System (OS)** is a software layer that sits between computer hardware and user applications. It manages hardware resources such as the CPU, memory, and devices, and provides services like scheduling, device drivers, and inter-process communication through pipes, message queues, shared memory, and signals. By doing this, it allows multiple processes to share resources safely and offers convenient abstractions for running applications. #keyTermDefinition 
 
 The building blocks of OS's are Virtualisation, Concurrency, Persistence, and Security.
 
 ---
 ## The Network / Internet
-#theNetwork
 
-Has physical connections like links and interfaces. There is communication across machines via sockets & protocols). There is end-to-end data transfer via logical channels between processes. 
+The **Internet** is a global network of interconnected hosts, packet switches, and communication links that enables end-to-end data transfer between processes using standardized protocols to support distributed applications and services. #keyTermDefinition 
 
-The internet has 3 main components: Hosts, Communication Links, Packet Switches. The hosts are the billions of connected computing devices running network apps at the internets edge. The Packet Switches forward packets of data via routers and switches. Communication links like fiber, copper, radio, and satellite. Bandwidth is the transmission rate. 
+The internet has physical connections like links and interfaces. Communication is done across machines via sockets & protocols. There is end-to-end data transfer via logical channels between processes. 
+
+The internet has 3 main components:
+- **Communication Links**: Includes fiber, copper, radio, and satellite connections. They carry data across the network, and their **bandwidth** determines the transmission rate.
+- **Packet Switches**: Forward packets of data through the network, using devices such as routers and switches to determine the best paths.
+- **Hosts**: These are the billions of connected computing devices running network applications at the internet’s edge.
 
 The internet is an infrastructure that provides services to distributed applications like the web, e-mail, games, etc. The Internet is a network of networks. Protocols send and receive messages and protocol standards ensure standard delivery of data. A protocol defines the format, order of data exchanged among network entities, and actions, to be taken on message transmission/receipt/non-receipt.
 
 ---
 ## The Cloud
-#cloud
 
 Entire server clusters and virtual machines and containers
 
 
-Not finished the lecture
+#doitlater 
+
