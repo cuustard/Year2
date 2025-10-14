@@ -21,7 +21,7 @@ It also provides programming abstractions (like files, processes, and memory man
 
 ### OS Scheduling
 
-#doitlater 
+An OS scheduler is the part of the OS that decides which process gets to use the CPU (or other resources) at any given time. It ensures efficient, fair, and responsive execution of multiple processes. #keyTermDefinition 
 
 ## Virtualisation
 
@@ -46,13 +46,13 @@ There are different strategies for resources:
 
 ### CPU Virtualisation
 
-When the user executes a program, the OS creates a process. #doitlater 
+When the user executes a program, the OS creates a process. The OS time-shares CPU across multiple processes. The OS scheduler picks one of the executable processes to run and must keep a list of processes and metadata for policy.
 
 ## A Process
 
-A **program** is a collection of binary instructions and static data stored on disk.
+A **program** is a collection of binary instructions and static data stored on disk. #keyTermDefinition 
 
-A **process** is an **operating system (OS) abstraction** that represents a running instance of a program — that is, a program **loaded into memory and executed**.
+A **process** is an **operating system (OS) abstraction** that represents a running instance of a program — that is, a program **loaded into memory and executed**. #keyTermDefinition 
 
 A process encapsulates:
 
@@ -96,5 +96,9 @@ When a new process is created, the operating system performs several key steps t
 6. **Initialize CPU registers**
     - The **program counter (PC)** points to the entry function (e.g., `_start`), and other registers are set to known states.
 
+
+## System Call
+
+A system call allows programs to request a service from the kernel. It's the interface between user programs (in user space) and the OS (in kernel space). The OS at boot registers the address of a system call handler function with the CPU. A process executes the trap instruction. The process context is stored in memory, the state of the OS is loaded, and the CPU executes the call handler function
 
 #doitlater 
