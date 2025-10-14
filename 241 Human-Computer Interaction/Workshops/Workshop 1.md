@@ -1,7 +1,7 @@
 noted: 07/10/2025 #week1 
 
 > [!info] Resources
-> [📊 PowerPoint](Databases.pdf)
+> [📊 PowerPoint](DataEngineeringAndDatabases.pdf)
 > [⚒️ Workshop Task](Resources/JavaScriptTutorial.pdf)
 > [📽️Lecture Recording]()
 

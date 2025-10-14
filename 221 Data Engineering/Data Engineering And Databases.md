@@ -1,7 +1,7 @@
 Noted: 07/10/2025 #week1
 
 > [!info] Resources
-> [📊 PowerPoint](Databases.pdf)
+> [📊 PowerPoint](DataEngineeringAndDatabases.pdf)
 > [📽️Lecture Recording](https://lancaster.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=11692c2d-f819-4298-8cce-b36300370fb8)
 
 ```table-of-contents
