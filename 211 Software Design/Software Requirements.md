@@ -1,8 +1,11 @@
 noted: 08/10/2025 #week1 
 
 > [!info] Resources
-> [📊 PowerPoint](Resources/SoftwareRequirements.pdf)
+> [📊 PowerPoint 1](Resources/SoftwareRequirements.pdf)
+> [📊 PowerPoint 2](Resources/SoftwareRequirements2.pdf)
 > [📽️Lecture Recording](https://lancaster.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=701d3f86-17ee-4bfd-a3d9-b36300370351&start=0)
+> [📽️Lecture Recording Prt 2]([https://lancaster.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=649f371b-8e90-46ed-b7e8-b36600e31e4c&start=0](https://lancaster.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=649f371b-8e90-46ed-b7e8-b36600e31e4c&start=0))
+
 
 > [!info] Required Reading
 > [📘 Software Engineering (10th Ed.), Ian Sommerville](GlobalEditionSoftwareEngineering10thEdition2016_IanSommerville.pdf)
@@ -83,3 +86,6 @@ You must identify the important stakeholders in a system to discover their requi
 - Engineers responsible for the development and maintenance
 - People responsible for systems that will interface with the system under development
 - External bodies such as regulators or certification authorities
+
+
+SOFTWARE REQUIREMENTS 2 #doitlater 
