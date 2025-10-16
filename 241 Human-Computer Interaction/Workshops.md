@@ -22,4 +22,4 @@ EDIT: Went through the JS tutorial pdf and it was piss. Online quiz completed on
 
 Went through the answers and results of [this](Exercise1MHPandReactionTime.pdf) task.
 
-Must do the coursework. with resources above.s
+Must do the coursework. with resources above. 
