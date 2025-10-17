@@ -2,7 +2,15 @@
 ```
 
 ---
-# Year2
+# Year 2
+
+| Module           |
+| ---------------- |
+| [[211 Overview]] |
+| [[221 Overview]] |
+| [[231 Overview]] |
+| [[241 Overview]] |
+
 
 A shared [Obsidian](https://obsidian.md/) vault containing study notes for **Year 2 Computer Science at Lancaster University**.  
 Created and maintained collaboratively to serve as a structured resource bank for all second-year modules.
