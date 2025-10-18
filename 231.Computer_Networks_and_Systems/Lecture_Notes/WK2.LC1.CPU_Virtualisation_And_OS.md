@@ -1,7 +1,7 @@
 Noted: 13/10/2025 #week2
 
 > [!info] Resources
-> [📊 PowerPoint](cpuVirtualisationAndTheOS.pdf)
+> [📊 PowerPoint](WK2.LC1.CPU_Virtualisation_And_OS.pdf)
 > [📽️Lecture Recording](https://lancaster.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=5288b929-ebf8-446f-b606-b36800352c47)
 
 ```table-of-contents

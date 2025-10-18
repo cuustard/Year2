@@ -1,6 +1,6 @@
 
 > [!info] Resources
-> [📊 PowerPoint](MemoryVirtualisation.pdf)
+> [📊 PowerPoint](WK2.LC2.Memory_Virtualisation.pdf)
 > [📽️Lecture Recording]()
 
 Memory virtualisation is a key mechanism to share efficiently and securely memory, through a simple programming model. #keyTermDefinition 

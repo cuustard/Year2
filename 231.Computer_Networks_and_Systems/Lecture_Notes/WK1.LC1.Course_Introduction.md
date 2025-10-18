@@ -1,7 +1,7 @@
 Noted: 06/10/2025 #week1
 
 > [!info] Resources
-> [📊 PowerPoint](CourseIntroduction.pdf)
+> [📊 PowerPoint](WK1.LC1.%20Course_Introduction.pdf)
 > [📽️Lecture Recording](https://lancaster.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b505e5ce-51eb-4587-875c-b363003733b6)
 
 > [!info] Required Reading
@@ -51,7 +51,7 @@ A **Systems Engineering** is a discipline of designing, integrating, and managin
 ---
 ## The Operating System
 
-An [[Virtualisation And The Operating System#The Operating System|Operating System]] (OS) is a software layer that sits between computer hardware and user applications. It manages hardware resources such as the CPU, memory, and devices, and provides services like scheduling, device drivers, and inter-process communication through pipes, message queues, shared memory, and signals. By doing this, it allows multiple processes to share resources safely and offers convenient abstractions for running applications. #keyTermDefinition 
+An [[WK2.LC1.CPU_Virtualisation_And_OS#The Operating System|Operating System]] (OS) is a software layer that sits between computer hardware and user applications. It manages hardware resources such as the CPU, memory, and devices, and provides services like scheduling, device drivers, and inter-process communication through pipes, message queues, shared memory, and signals. By doing this, it allows multiple processes to share resources safely and offers convenient abstractions for running applications. #keyTermDefinition 
 
 The building blocks of OS's are Virtualisation, Concurrency, Persistence, and Security.
 	• Virtualisation 

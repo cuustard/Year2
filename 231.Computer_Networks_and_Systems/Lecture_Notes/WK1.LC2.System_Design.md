@@ -1,7 +1,7 @@
 Noted: 10/10/2025 #week1
 
 > [!info] Resources
-> [📊 PowerPoint](SystemDesign.pdf)
+> [📊 PowerPoint](WK1.LC2.System_Design.pdf)
 > [📽️Lecture Recording](https://lancaster.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d89e6356-29fa-4dbb-b616-b36600e33d08)
 
 ```table-of-contents
