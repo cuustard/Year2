@@ -1,6 +1,6 @@
 > [!info] Resources
-> [📊 Coursework Guidance](Resources/CourseworkGuide.pdf)
-> [📊 Coursework Presentation Template](Resources/CourseworkPresentationTemplate.pdf)
+> [📊 Coursework Guidance](CourseworkGuide.pdf)
+> [📊 Coursework Presentation Template](CourseworkPresentationTemplate.pdf)
 
 Went through the answers and results of [this](Exercise1MHPandReactionTime.pdf) task.
 

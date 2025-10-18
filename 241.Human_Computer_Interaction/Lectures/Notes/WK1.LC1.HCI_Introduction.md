@@ -1,5 +1,5 @@
 > [!info] Resources
-> [📊 PowerPoint](HCIIntroduction.pdf)
+> [📊 PowerPoint](WK1.LC1.HCI_Introduction.pdf)
 > [📽️Lecture Recording](https://lancaster.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=85904c91-c018-4689-9321-b36300375cc7)
 
 ```table-of-contents
