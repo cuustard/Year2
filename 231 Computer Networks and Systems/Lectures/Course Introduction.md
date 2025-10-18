@@ -54,6 +54,14 @@ A **Systems Engineering** is a discipline of designing, integrating, and managin
 An [[Virtualisation And The Operating System#The Operating System|Operating System]] (OS) is a software layer that sits between computer hardware and user applications. It manages hardware resources such as the CPU, memory, and devices, and provides services like scheduling, device drivers, and inter-process communication through pipes, message queues, shared memory, and signals. By doing this, it allows multiple processes to share resources safely and offers convenient abstractions for running applications. #keyTermDefinition 
 
 The building blocks of OS's are Virtualisation, Concurrency, Persistence, and Security.
+	• Virtualisation 
+		Each process thinks it has its own resources (e.g., CPU, memory) 
+	• Concurrency 
+		Hide concurrency from independent processes; provide synchronisation to dependent processes. 
+	• Persistence 
+		Allow processes to store non- volatile information 
+	• Security 
+		Isolation, Authentication, Protection against exploits. 
 
 ---
 ## The Network / Internet
@@ -71,9 +79,22 @@ The internet is an infrastructure that provides services to distributed applicat
 
 ---
 ## The Cloud
+**Components of the cloud:**
+Entire server clusters such as Virtual Machines (VM) and Containers.
 
-Entire server clusters and virtual machines and containers
+The purpose of the cloud creates on-demand resources allowing improved scalability, allowing complexity management to be hidden.
+This can be performed by isolating the hosts from different users running on the same hardware.
 
+As an example, a computer device can run a virtual machine that has an isolated operating system that does directly connect to the physical computer the VM is running on. This can allow for testing on devices in the event where the physical computer may be at risk of actions performed on the VM (Virus testing on virtual machines).
 
-#doitlater 
+---
+## Protocol
+A Protocol defines the format, order of messages exchanged among network entities (e.g., hosts, routers), and actions to be taken on message transmission/receipt/non-receipt #keyTermDefinition 
 
+Example:
+- TCP request from computer to a server. (Requests connection)
+- TCP connection response from server to computer. (Allows connection)
+- Get request from computer to a sever. (Requests URL/web page)
+- Server responds with the web page.
+
+---
