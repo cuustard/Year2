@@ -1,7 +1,7 @@
 noted: #week2 
 
 > [!info] Resources
-> [📊 PowerPoint](RelationalDatabases.pdf)
+> [📊 PowerPoint](WK2.LC2.Relational_Databases.pdf)
 > [📽️Lecture Recording]()
 
 ```table-of-contents

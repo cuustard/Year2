@@ -1,5 +1,5 @@
 > [!info] Resources
-> [⚒️ Workshop Task](MasteringDrawIOWorkshop1.pdf)
+> [⚒️ Workshop Task](WK2.WKSP1.Draw.IO.pdf)
 
 ```table-of-contents
 ```

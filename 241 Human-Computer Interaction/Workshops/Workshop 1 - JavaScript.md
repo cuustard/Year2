@@ -5,7 +5,7 @@
 ## Week 1
 
 > [!info] Resources
-> [📊 PowerPoint](DataEngineeringAndDatabases.pdf)
+> [📊 PowerPoint](WK1.LC1.Data_Engineering_And_Databases.pdf)
 > [⚒️ Workshop Task](Resources/JavaScriptTutorial.pdf)
 > [Exercise Sheet](Exercise1MHPandReactionTime.pdf)
 > [📽️Lecture Recording]()

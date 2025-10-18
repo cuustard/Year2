@@ -1,7 +1,7 @@
 #week2 
 
 > [!info] Resources
-> [📊 PowerPoint](DatabaseCardinalityParticipationWeakEntities.pdf)
+> [📊 PowerPoint](WK2.LC1.Database_Cardinality.pdf)
 > [📽️Lecture Recording]()
 
 ```table-of-contents
