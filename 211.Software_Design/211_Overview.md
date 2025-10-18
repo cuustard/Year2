@@ -7,9 +7,9 @@ Being 'Done?' means that notes for that lecture are completed, text, tables, ima
 
 | Week | Lecture | Notes                     | Done? |
 | ---- | ------- | ------------------------- | ----- |
-| 1    | 1       | [[Software Requirements]] | ✅     |
-| 1    | 2       | [[Software Requirements]] | 😐    |
-| 2    | 1       | [[Use Cases]]             | ❌     |
+| 1    | 1       | [[WK1.LC1.Software_Requirements]] | ✅     |
+| 1    | 2       | [[WK1.LC1.Software_Requirements]] | 😐    |
+| 2    | 1       | [[WK2.LC1.Use_Cases]]             | ❌     |
 | 2    | 2       | ???                       |       |
 
 ## Workshops
@@ -18,6 +18,6 @@ For workshops, being 'Done?' means that as well as any notes needed to be taken,
 
 | Week | Notes                                | Done? |
 | ---- | ------------------------------------ | ----- |
-| 2    | [[Workshop 1 Software Requirements]] | ✅     |
+| 2    | [[WK1.WKSP1.Software_Requirements]] | ✅     |
 
 ## Useful Links

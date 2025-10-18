@@ -58,7 +58,7 @@ The ability of a system to handle an increasing amount of work, users, or data b
 
 #### Social
 
-**Social Standards**: These are external [[Software Requirements|requirements]] or conventions that systems must conform to, even if they do not always make technical sense. Under-specified or inconsistently applied standards can lead to **faulty** or **non-interoperable implementations**.
+**Social Standards**: These are external [[WK1.LC1.Software_Requirements|requirements]] or conventions that systems must conform to, even if they do not always make technical sense. Under-specified or inconsistently applied standards can lead to **faulty** or **non-interoperable implementations**.
 
 **Social Market Requirements**: Market and user expectations can impose additional design constraints, such as:
 - **Backward compatibility** with older systems or products.

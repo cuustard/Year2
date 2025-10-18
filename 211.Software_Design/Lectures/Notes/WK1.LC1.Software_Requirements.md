@@ -1,15 +1,15 @@
 #week1 
 
 > [!info] Resources
-> [📊 PowerPoint 1](SoftwareRequirements.pdf)
-> [📊 PowerPoint 2](SoftwareRequirements2.pdf)
+> [📊 PowerPoint 1](WK1.LC1.Software_Requirements1.pdf)
+> [📊 PowerPoint 2](WK1.LC1.Software_Requirements2.pdf)
 > [📽️Lecture Recording](https://lancaster.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=701d3f86-17ee-4bfd-a3d9-b36300370351&start=0)
 > [📽️Lecture Recording 2]([https://lancaster.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=649f371b-8e90-46ed-b7e8-b36600e31e4c&start=0](https://lancaster.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=649f371b-8e90-46ed-b7e8-b36600e31e4c&start=0))
 
 
 > [!info] Required Reading
 > [📘 Software Engineering (10th Ed.), Ian Sommerville](GlobalEditionSoftwareEngineering10thEdition2016_IanSommerville.pdf)
-> [📘 Integrated Requirements Engineering: A Tutorial, by Ian Sommerville](Resources/IntegratedRequirementsEngineeringATutorial2005_IanSommerville.pdf)
+> [📘 Integrated Requirements Engineering: A Tutorial, by Ian Sommerville](IntegratedRequirementsEngineeringATutorial2005_IanSommerville.pdf)
 
 ```table-of-contents
 

@@ -1,5 +1,5 @@
 > [!info] Resources
-> [⚒️ Workshop Task](SoftwareRequirementsWorkshop1.pdf)
+> [⚒️ Workshop Task](WK1.WKSP1.Software_Requirements.pdf)
 
 ```table-of-contents
 ```
@@ -9,7 +9,7 @@
 ---
 ## Software Requirements Recap
 
-There are two types of [[Software Requirements]]. Functional Requirements (FR) and Non-Functional Requirements (NFR). FR specifies the services that a system should deliver. NFR specifies the quality with which a system delivers its services. For example:
+There are two types of [[WK1.LC1.Software_Requirements]]. Functional Requirements (FR) and Non-Functional Requirements (NFR). FR specifies the services that a system should deliver. NFR specifies the quality with which a system delivers its services. For example:
 - **FR**: The ATM **shall** enable users to withdraw cash
 - **NFR**:
 	- Cash withdrawal service **shall** be available for at least 23hours a day
