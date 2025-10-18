@@ -2,6 +2,8 @@
 ```
 
 ---
+
+![hippo](https://i.pinimg.com/originals/17/78/bd/1778bd3bc3371e66373857531d78c2a2.gif)
 # Year 2
 
 | Module           |
