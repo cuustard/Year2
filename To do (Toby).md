@@ -1,8 +1,8 @@
-231
-	wk2.lc1.cpu v and os
+231 - notes done 
+- check file formatting
 211
-	all
+- all lecture notes
 221
-	all
+- all lecture notes
 241
-	all
+- all lecture notes
