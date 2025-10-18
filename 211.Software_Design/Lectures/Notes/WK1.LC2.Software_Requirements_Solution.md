@@ -1,5 +1,5 @@
 > [!info] Resources
-> [⚒️ Workshop Task](WK1.WKSP1.Software_Requirements.pdf)
+> [⚒️ Workshop Task](211.Software_Design/Workshops/Slides/WK1.WKSP1.Software_Requirements.pdf)
 
 ```table-of-contents
 ```

@@ -1,8 +1,8 @@
 #week1 
 
 > [!info] Resources
-> [📊 PowerPoint 1](WK1.LC1.Software_Requirements1.pdf)
-> [📊 PowerPoint 2](WK1.LC1.Software_Requirements2.pdf)
+> [📊 PowerPoint 1](WK1.LC1.Software_Requirements.pdf)
+> [📊 PowerPoint 2](WK1.LC2.Software_Requirements_Problem.pdf)
 > [📽️Lecture Recording](https://lancaster.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=701d3f86-17ee-4bfd-a3d9-b36300370351&start=0)
 > [📽️Lecture Recording 2]([https://lancaster.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=649f371b-8e90-46ed-b7e8-b36600e31e4c&start=0](https://lancaster.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=649f371b-8e90-46ed-b7e8-b36600e31e4c&start=0))
 
@@ -86,6 +86,3 @@ You must identify the important stakeholders in a system to discover their requi
 - Engineers responsible for the development and maintenance
 - People responsible for systems that will interface with the system under development
 - External bodies such as regulators or certification authorities
-
-
-SOFTWARE REQUIREMENTS 2 #doitlater 

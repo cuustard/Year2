@@ -18,6 +18,6 @@ For workshops, being 'Done?' means that as well as any notes needed to be taken,
 
 | Week | Notes                                | Done? |
 | ---- | ------------------------------------ | ----- |
-| 2    | [[WK1.WKSP1.Software_Requirements]] | ✅     |
+| 2    | [[WK1.LC2.Software_Requirements_Solution]] | ✅     |
 
 ## Useful Links
