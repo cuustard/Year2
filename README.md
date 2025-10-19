@@ -11,7 +11,7 @@
 | [[211_Overview]] |
 | [[221 Overview]] |
 | [[231_Overview]] |
-| [[241 Overview]] |
+| [[241_Overview]] |
 
 
 A shared [Obsidian](https://obsidian.md/) vault containing study notes for **Year 2 Computer Science at Lancaster University**.  
