@@ -89,8 +89,6 @@ Most mental health patients do not require dedicated hospital treatment but need
 
 To make it easier for patients to attend, these clinics are not just run in hospitals. They may also be held in local medical practices or community centres.
 
-![[Excalidraw/Drawing 2025-10-16 12.33.24.excalidraw]]
-
 Mentcare is an information system that is intended for use in clinics.
 
 It makes use of a centralized database of patient information but has also been designed to run on Personal Computers (PCs), so that it may be accessed and used from sites that do not have secure network connectivity.
