@@ -16,7 +16,7 @@ Behavioural model of a system describing **how the system responds to external s
     - Textual → easy to communicate
     - Can be used to **derive test cases**
     - Part of **UML (Unified Modelling Language)**
-#### Components
+### Components
 - **Use Case Diagram**: High-level overview of system actors and interactions
 - **Use Case Description**: Detailed scenarios (textual)
 
@@ -27,7 +27,7 @@ Behavioural model of a system describing **how the system responds to external s
 - **Secondary actor**: Helps the system achieve the primary actor’s goal
 
 ---
-##  Modelling
+## Modelling
 
 Models simplify reality: **deal with complexity, abstraction, separation of concerns**
 - UML models:
@@ -53,6 +53,7 @@ Flow of Events: <Step-by-step interactions>
 Postconditions: <System state at end>
 Non-functional requirements: <Optional annotations>
 ```
+
 **Example: Submit Coursework**
 
 - Primary scenario: Student submits coursework → Teaching Office records → Tutor marks → Lecturer returns → Teaching Office updates system → Student receives mark

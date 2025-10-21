@@ -1,11 +1,12 @@
 > [!info] Resources
 > [⚒️ Workshop Task](211.Software_Design/Workshops/Slides/WK1.WKSP1.Software_Requirements.pdf)
+> [📽️Lecture Recording]([https://lancaster.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=649f371b-8e90-46ed-b7e8-b36600e31e4c&start=0](https://lancaster.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=649f371b-8e90-46ed-b7e8-b36600e31e4c&start=0))
+
+> [!info] Info
+> This lecture went over what we have to do for the [[WK1.LC2.Software_Requirements_Solution 1|Workshop]]. Visit that note to see our answers.
 
 ```table-of-contents
 ```
-
-- [x] [[#Task 1 Mary's Smart Home]]
-- [x] [[#Task 2 Mentcare]]
 ---
 ## Software Requirements Recap
 
@@ -115,3 +116,7 @@ FR:
 NFR:
 1. The patient record database **shall** be accessible 24/7
 2. All patient records **shall** be stored in an encrypted form to protect against unauthorised access or processing.
+
+---
+
+## PlantUML

@@ -1,10 +1,6 @@
-```
-231 - notes done 
-211 - notes done
-221 - notes done
-241 - notes done
-```
----
-```
-need to complete all workshops
-```
+- [x] 211 Notes
+- [x] 212 Notes
+- [x] 231 Notes
+- [x] 241 Notes
+- [ ] All workshops
+

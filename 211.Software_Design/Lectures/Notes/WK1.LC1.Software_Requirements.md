@@ -2,7 +2,6 @@
 
 > [!info] Resources
 > [📊 PowerPoint 1](WK1.LC1.Software_Requirements.pdf)
-> [📊 PowerPoint 2](WK1.LC2.Software_Requirements_Problem.pdf)
 > [📽️Lecture Recording](https://lancaster.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=701d3f86-17ee-4bfd-a3d9-b36300370351&start=0)
 > [📽️Lecture Recording 2]([https://lancaster.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=649f371b-8e90-46ed-b7e8-b36600e31e4c&start=0](https://lancaster.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=649f371b-8e90-46ed-b7e8-b36600e31e4c&start=0))
 
@@ -19,7 +18,7 @@
 
 ## What Software Requirements Are
 
-A software requirement defines what the system under development should do (but not how it does it), and constraints under which it must do it.
+A software requirement defines what the system under development should do (but not how it does it), and constraints under which it must do it. #keyTermDefinition 
 
 > A **requirement**, according to the IEEE Standard Glossary of Software Engineering Terminology, is a _documented condition or capability_ that a user needs to solve a problem or achieve an objective, or that a software system or its components must meet to satisfy a contract, standard, specification, or other formally imposed document.
 
@@ -46,9 +45,11 @@ Requirements can be written at different levels of abstraction/detail for differ
 
 ## Types of Requirements And Metrics for Measuring
 
-There are two types of software requirements. Functional Requirements (FR) and Non-functional Requirements (NFR). FRs are for services that a system should deliver. NFRs specify the quality with which a system delivers its services. NFRs are **shall** statements that precisely specify these constraints.
+There are two types of software requirements. Functional Requirements (FR) and Non-functional Requirements (NFR).
+- FRs are for services that a system should deliver. #keyTermDefinition 
+- NFRs specify the quality with which a system delivers its services. NFRs are **shall** statements that precisely specify these constraints. #keyTermDefinition 
 
-A requirement document is usually a text document and includes a purpose, scope of the product, and a set of **shall** statements prescribing what the system will do (both FR and NFR). 
+A requirement document is usually a text document and includes a purpose, scope of the product, and a set of **shall** statements prescribing what the system will do (both FR and NFR). #keyTermDefinition 
 
 Metrics for specifying Non-functional requirements:
 
@@ -65,7 +66,7 @@ Requirements must be testable. To create tests for requirements, they must be de
 
 ## Requirements Engineering
 
-Requirements Engineering is a systematic process of understanding the problem, specifying the solution, (and once the solution is validated) managing the requirements.
+Requirements Engineering is a systematic process of understanding the problem, specifying the solution, (and once the solution is validated) managing the requirements. #keyTermDefinition 
 
 To understand the problem it is important to understand the context of said problem that the system is intended to address:
 - What is the business goal?

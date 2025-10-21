@@ -9,10 +9,7 @@
 
 ## Relationship Types
 
-### Definition #keyTermDefinition 
-```
-Cardinality defines how many entities in one set can be associated with entities in another set.
-```
+Cardinality defines how many entities in one set can be associated with entities in another set. #keyTermDefinition 
 
 |Type|Description|Example|
 |---|---|---|
@@ -38,6 +35,7 @@ Cardinality defines how many entities in one set can be associated with entities
 - An employee works in _several departments_
 - A department has _many employees_  
     → **N:M (Many-to-Many)** relationship
+
 ---
 ## Participation Constraints
 Define whether **all** entities in one set participate in a relationship.
@@ -57,6 +55,7 @@ Define whether **all** entities in one set participate in a relationship.
 - A car may be repaired by several mechanics.
 - Each mechanic must repair exactly one car.  
     → Total participation for Mechanic, partial for Car.
+
 ---
 
 ## Employees–Departments Relationships
@@ -76,10 +75,10 @@ Define whether **all** entities in one set participate in a relationship.
 - Employee must work in one department.
 - Exactly one employee must manage a department.
 - Each department must have employees.
+
 ---
 ## Weak Entities and Weak Relationships
-
-### Concept #keyTermDefinition 
+ 
 Used when an entity **cannot exist without** another (its “owner”).  
 If the owner is deleted, the weak entity is also removed.
 

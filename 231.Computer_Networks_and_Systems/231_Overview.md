@@ -3,12 +3,13 @@
 
 ## Lectures
 
-| Week | Lecture | Notes                                 | Done? |
-| ---- | ------- | ------------------------------------- | ----- |
-| 1    | 1       | [[WK1.LC1.Course_Introduction]]       | 😐    |
-| 1    | 2       | [[WK1.LC2.System_Design]]             | 😐    |
-| 2    | 1       | [[WK2.LC1.CPU_Virtualisation_And_OS]] | 😐    |
-| 2    | 2       | [[WK2.LC2.Memory_Virtualisation]]     | 😐    |
+| Week | Lecture | Notes                                  | Done? |
+| ---- | ------- | -------------------------------------- | ----- |
+| 1    | 1       | [[WK1.LC1.Course_Introduction]]        | ✅     |
+| 1    | 2       | [[WK1.LC2.System_Design]]              | ✅     |
+| 2    | 1       | [[WK2.LC1.CPU_Virtualisation_And_OS]]  | ✅     |
+| 2    | 2       | [[WK2.LC2.Memory_Virtualisation]]      | ✅     |
+| 3    | 1       | [[WK3.LC1.Interprocess_Communication]] | ✅     |
 
 
 ## Workshops
