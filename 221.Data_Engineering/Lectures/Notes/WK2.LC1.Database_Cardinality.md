@@ -6,7 +6,12 @@
 
 ```table-of-contents
 ```
+---
+## The YouTube video linked below is *very* useful for this lecture/topic (Channel is useful for the whole module). 
 
+[Entity Relationships](https://youtu.be/LowjDtiNlk4?si=Pon3Y_UJkKbveHW_)
+
+---
 ## Relationship Types
 
 Cardinality defines how many entities in one set can be associated with entities in another set. #keyTermDefinition 

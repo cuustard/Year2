@@ -1,6 +1,6 @@
 ---
 date: 2025-10-21
-noted: false
+noted: true
 tags:
   - week3
   - doitlater
@@ -15,7 +15,8 @@ tags:
 ---
 ## The YouTube video linked below is *very* useful for this lecture/topic (Channel is useful for the whole module). 
 
-[Database  Normalisation](https://www.youtube.com/watch?v=GFQaEYEc8_8)
+[Normalisation](https://www.youtube.com/watch?v=GFQaEYEc8_8)
+[Boyce-Codd Normal Form (BCNF)](https://www.youtube.com/watch?v=VWnKUKH4tLg)
 
 ---
 ## Functional Dependencies (FDs)
@@ -167,7 +168,7 @@ Fix: Decompose into:
 ![[Pasted image 20251022065842.png]]
 
 ---
-## 💡 Boyce-Codd Normal Form (BCNF)
+## Boyce-Codd Normal Form (BCNF)
 
 BCNF is a **stronger** version of 3NF.
 

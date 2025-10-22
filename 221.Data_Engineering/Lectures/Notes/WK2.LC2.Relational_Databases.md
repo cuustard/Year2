@@ -6,6 +6,11 @@ noted: #week2
 
 ```table-of-contents
 ```
+---
+## The YouTube video linked below is *very* useful for this lecture/topic (Channel is useful for the whole module). 
+
+[Keys](https://www.youtube.com/watch?v=8wUUMOKAK-c)
+[Entity Relationships](https://youtu.be/LowjDtiNlk4?si=Pon3Y_UJkKbveHW_)
 
 ---
 ## Relational Model Overview
