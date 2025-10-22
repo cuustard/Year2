@@ -1,6 +1,6 @@
 ---
 date: 2025-10-22
-noted: false
+noted: true
 tags:
   - week3
 ---
