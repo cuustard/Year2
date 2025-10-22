@@ -3,7 +3,6 @@ date: 2025-10-21
 noted: true
 tags:
   - week3
-  - doitlater
 ---
 ```table-of-contents
 ```
