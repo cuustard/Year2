@@ -133,4 +133,5 @@ Throughput = **efficiency** of information transfer (speed + accuracy).
 - **Speed–accuracy trade-off** is inherent in all input.
 - **Throughput (ID/MT)** combines both into a single metric of efficiency.
 - Device performance can be compared via **throughput**.
+
 ---
