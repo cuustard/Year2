@@ -24,7 +24,7 @@ To process data effectively, it must have a **common**, **flexible**, and **unde
 ---
 ## What is Data Engineering?
 
-### Definition #keyTermDefinition 
+### Definition #keyTermDefinition
 ```
 Data Engineering is the process of designing and building systems that collect, manage, and analyse data to make it usable for business insights and decision-making.
 ```
@@ -43,7 +43,7 @@ Data Engineering is the process of designing and building systems that collect, 
 - SQL-based systems
 ---
 ## Databases
-### Definition #keyTermDefinition 
+### Definition #keyTermDefinition
 ```
 A database is a structured system for storing, retrieving, and managing data efficiently.
 ```
@@ -117,7 +117,7 @@ This is represented in an ER diagram with a **one-to-many relationship (1:N)** b
 
 ---
 ## Relationships
-### Definition #keyTermDefinition 
+### Definition #keyTermDefinition
 ```
 - A relationship represents associations between two or more entities.
 - Comes directly from business rules.
@@ -132,7 +132,7 @@ This is represented in an ER diagram with a **one-to-many relationship (1:N)** b
 ---
 
 ## Cardinalities (Mapping Constraints)
-### Definition #keyTermDefinition 
+### Definition #keyTermDefinition
 ```
 - Specifies how many entities in one set are associated with entities in another set.
 - Derived from business rules.

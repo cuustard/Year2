@@ -16,7 +16,7 @@ Gestalt is a German word meaning "unified whole". These principles describe how 
 How information is structured visually has a major impact on how quickly we can find what we're looking for.
 ### Visual Search
 Good visual structure, created through effective spacing, grouping, and alignment, helps us scan and understand information much faster. In one experiment, improving the visual structure of a screen reduced the average search time from 5.5 seconds to 3.2 seconds.
-### Preattentive Processing 
+### Preattentive Processing
 This is the very rapid processing of visual information that happens automatically and effortlessly across our entire visual field.
 
 - It occurs in under 200-250ms, which is faster than the time it takes to move our eyes.
@@ -30,7 +30,7 @@ These are specific visual properties that our brains can spot preattentively, wi
 - Combined Features: Searching for a combination of features (e.g., a blue square among blue circles and red squares) is slower and requires more conscious effort.
 - Communicating Data: Some pop-out features can convey quantitative information efficiently, such as length, size, position, and orientation.
 ---
-## Visual Encoding of Data 
+## Visual Encoding of Data
 
 Visualisation uses perceptual channels to represent different types of data. The effectiveness of a visualisation depends on choosing the right channel for the right data type.
 

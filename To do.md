@@ -4,3 +4,4 @@
 - [x] 241 Notes
 - [ ] All workshops
 
+- [ ] Make folder for pasted images to be stored in. And figure out how to get them to go in there instead of the root.

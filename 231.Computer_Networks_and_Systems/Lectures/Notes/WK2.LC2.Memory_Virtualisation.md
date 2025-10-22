@@ -18,10 +18,6 @@ OSes use spatial virtualisation to share address spaces between processes. The g
 - **Efficiency**: virtualisation must not affect performance of negatively impact space allocation
 - **Protection**: processes must not be able to view of edit memory areas from other programs
 
-Throughout history:
-
-![[Excalidraw/Drawing 2025-10-17 12.45.47.excalidraw]]
-
 ---
 ## Memory Components
 
@@ -100,14 +96,14 @@ Example: 128-byte physical memory with eight frames of 16 bytes
 (Virtual Page 3 → Physical Frame 2)
 ```
 ---
-##  Memory Translation (Example)
+## Memory Translation (Example)
 
 - Split virtual address into two components: the virtual page number (VPN), and the offset within the page.
 - Use VPN as an index in the page table to find which Physical Frame Number (PFN) has the virtual page. 
 - Replace VPN with PFN in the address, and you have the physical address.
 ![[Pasted image 20251018112124.png]]
 ---
-## Page table Entry
+## Page Table Entry
 
 • PFN: Physical frame number 
 • PWT, PCD, PAT, and G determine how hardware caching works for these pages 

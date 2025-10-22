@@ -72,7 +72,7 @@ The **User Interface** is the part of a system through which a user can interact
 | People-centred  | Creative<br>Compliant<br>Attentive to change<br>Resourceful<br>Able to make flexible decisions<br>Bas Dumb<br>Rigid<br>Insensitive to change<br>Unimaginative<br>Constrained to make consistent decisions to  to  to  to  to  |
 
 ---
-## Why HCI is important
+## Why HCI is Important
 
 The design of the user interface and of the interaction determines how we use products and services. It is the part of a system users experience. It determines our performance and how we feel about the system.
 

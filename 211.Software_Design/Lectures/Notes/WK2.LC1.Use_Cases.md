@@ -75,7 +75,7 @@ CMS1.5 Lecturer can access submissions post-issue.
 Each requirement is **uniquely identified** for management
 
 ---
-## Include vs Extend
+## Include Vs Extend
 
 **include**: Extracts **common mandatory behaviour** across multiple use cases
 **extend**: Adds **optional or conditional behaviour** to a use case

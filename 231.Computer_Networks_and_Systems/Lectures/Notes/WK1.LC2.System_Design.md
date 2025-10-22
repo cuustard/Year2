@@ -133,7 +133,7 @@ Using a single resource to handle multiple requests simultaneously (i.e., sharin
 - We use **statistical knowledge of user behaviour** to reduce system cost.
 - The efficiency gained through this probabilistic sharing is known as the **statistical multiplexing gain**.
 
-####  Statistical Multiplexing Gain Example
+#### Statistical Multiplexing Gain Example
 
 ```
 Consider a 100-room hotel deciding how many external phone lines to rent. Each line costs money to install and maintain, so providing one per room is wasteful. If a voice call is active only 40% of the time, the hotel could rent around 40 lines instead of 100. However, if more than 40 guests call simultaneously, some calls will be blocked, reducing user satisfaction.
