@@ -10,12 +10,13 @@
 | 2    | 1       | [[WK2.LC1.CPU_Virtualisation_And_OS]]  | ✅     |
 | 2    | 2       | [[WK2.LC2.Memory_Virtualisation]]      | ✅     |
 | 3    | 1       | [[WK3.LC1.Interprocess_Communication]] | ✅     |
+| 3    | 2       |                                        |       |
 
 
 ## Workshops
 
-| Week | Notes                       | Done? |
-| ---- | --------------------------- | ----- |
+| Week | Notes                          | Done? |
+| ---- | ------------------------------ | ----- |
 | 2    | [[WK2.WKSP1.OS_And_Processes]] | ❌     |
 
 ## Useful Links

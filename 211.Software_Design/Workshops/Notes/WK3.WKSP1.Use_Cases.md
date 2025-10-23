@@ -4,7 +4,7 @@
 ```table-of-contents
 ```
 ---
-## Recap: Use Case Diagram
+## Recap: [[WK2.LC1.Use_Cases|Use Case]] Diagram
 
 ![[Pasted image 20251023122840.png]]
 - The primary actor in the bank customer whose intention is to achieve one or more than 3 the goals described represented by use cases (show in blue).
@@ -32,6 +32,7 @@ There are cases where a use case may conditionally add steps to another use case
 	- Avoid functional decomposition. High-level use cases cannot de decomposed into lower-level use cases.
 	- a use case can **only** by linked to another use via an `<<include>>` or `<<extend>>` relationship. **Never** directly.
 
+---
 ## Task: Conference Paper Review System
 
 ### The Problem
@@ -54,3 +55,5 @@ Use PlantUML.
 3. A PlantUML example is provided in the next slide
 
 ### Our Answer
+
+#doitlater 
