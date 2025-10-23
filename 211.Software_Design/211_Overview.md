@@ -13,8 +13,9 @@
 
 ## Workshops
 
-| Week | Notes                                | Done? |
-| ---- | ------------------------------------ | ----- |
-| 2    | [[WK1.LC2.Software_Requirements_Solution_And_PlantUML]] | ✅     |
+| Week | Notes                                        | Done? |
+| ---- | -------------------------------------------- | ----- |
+| 2    | [[WK2.WKSP1.Software_Requirements_Solution]] | ✅     |
+| 3    | [[WK3.WKSP1.Use_Cases]]                      |       |
 
 ## Useful Links

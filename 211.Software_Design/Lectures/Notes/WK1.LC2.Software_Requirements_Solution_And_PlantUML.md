@@ -3,7 +3,7 @@
 > [📽️Lecture Recording]([https://lancaster.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=649f371b-8e90-46ed-b7e8-b36600e31e4c&start=0](https://lancaster.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=649f371b-8e90-46ed-b7e8-b36600e31e4c&start=0))
 
 > [!info] Info
-> This lecture went over what we have to do for the [[WK1.LC2.Software_Requirements_Solution 1|Workshop]]. Visit that note to see our answers.
+> This lecture went over what we have to do for the [[WK2.WKSP1.Software_Requirements_Solution|Workshop]]. Visit that note to see our answers.
 
 ```table-of-contents
 ```
@@ -57,29 +57,6 @@ Stakeholders interested in the development and smooth running of healthcare smar
 2. Identify any potential conflicts between requirements from different stakeholders. Suggest how you might resolve these conflicts.
 3. Write down your final list of non-conflicting SHALL statements (revised requirements).
 
-### Our Answers
-
-Thoughts and requirements for each stakeholder:
-
-| Stakeholder | Thoughts                                                                        | Requirement                                                                                                                                                                     | Clashes                                                                                                                      |
-| ----------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| AC          | Mary has concerns about personal details available to unauthorised individuals. | Patients personal data **shall** be encrypted when stored and transmitted through end to end encryption in order to minimise unauthorised data access. (**Non Functional**)<br> | This may conflict with GHC over data transmission concerns.<br><br>This may conflict with AC due to data transmission costs. |
-| AC          | Mary would like the smart fridge to monitor health concerns.                    | The smart fridge **shall** actively monitor the data required in order to meet Mary's expectations. (**Functional**)                                                            |                                                                                                                              |
-| GHC         |                                                                                 | A weekly report **shall** be sent to Mary's GP following the NHS practice and procedure. (**Functional**)                                                                       | This may conflict with AC due to concerns regarding data transmission.                                                       |
-| GHC         |                                                                                 | Guidelines and requirements **shall** be followed in line with NHS practices and procedures. (**Functional**).                                                                  |                                                                                                                              |
-| SD          |                                                                                 | he home technologies used **shall** be kept within Mary's budget costs. (**Non-Functional**)                                                                                    | This may conflict with AC due to concerns regarding data transmission as encryption and storage may incur higher costs.      |
-| SD          |                                                                                 | The smart technology **shall** always be actively monitoring and in the event of downtime, an alert shall be made to both Mary and the registered GP. (**Functional**)          |                                                                                                                              |
-
-
-Final Requirements rectifying clashes:
-1. Patients’ personal data **shall** be encrypted when stored and transmitted using end-to-end encryption with cost-effective methods to minimise unauthorised access and comply with stakeholder requirements.
-2. A completed consent form **shall** be required from Mary to allow data exchange between Mary and her GP.
-3. The smart fridge **shall** actively monitor the data required to address Mary’s health concerns.
-4. A weekly report shall be sent to Mary’s GP following NHS practices and procedures if Mary has completed the **consent** form.
-5. All system guidelines and requirements **shall** comply with NHS practices and procedures.
-6. The home technologies used **shall** remain within Mary’s budget, and for higher-priced technologies such as encryption, cost-effective methods shall be implemented to meet stakeholder requirements.
-7. The smart technology **shall** always be actively monitoring, and in the event of downtime, an alert shall be sent to both Mary and her registered GP.
-
 ---
 ## Task 2: Mentcare
 
@@ -100,21 +77,8 @@ When the local systems have secure network access, they use patient information 
 1. Write down three possible stakeholders for the Mentcare system.
 2. Write down two Functional Requirements (FR) and two Non-Functional Requirements (NFR) for the Mentcare system.
 
-### Our Answers
-
-Stakeholders:
-- Government Health Committee Member (GHC)
-- System Developer (SD)
-- Mental Patient Representative (MP)
-
-FR:
-1. The system **shall** allow authorized doctors and patients to securely access relevant medical data.
-2. Doctors **shall** be allowed to download and use local copies of patient records when they are disconnected from the network.
-
-NFR:
-1. The patient record database **shall** be accessible 24/7
-2. All patient records **shall** be stored in an encrypted form to protect against unauthorised access or processing.
-
 ---
 
 ## PlantUML
+
+#doitlater
