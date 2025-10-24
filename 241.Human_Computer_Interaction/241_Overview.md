@@ -1,5 +1,3 @@
-```table-of-contents
-```
 
 ---
 ## Lectures
@@ -11,7 +9,7 @@
 | 2    | 1       | [[WK2.LC1.Vision_And_Colour]]      | ✅     |
 | 2    | 2       | [[WK2.LC2.Visual_Perception]]      | ✅     |
 | 3    | 1       | [[WK3.LC1.Movement_And_Fitts_Law]] | ✅     |
-| 3    | 2       | [[WK3.LC2.Input_Models]]           | ❌     |
+| 3    | 2       | [[WK3.LC2.Input_Models]]           | ✅     |
 
 ---
 ## Workshops

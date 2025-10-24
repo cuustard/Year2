@@ -1,6 +1,5 @@
-```table-of-contents
-```
 
+---
 ## Lectures
 
 | Week | Lecture | Notes                                  | Done? |
@@ -12,11 +11,13 @@
 | 3    | 1       | [[WK3.LC1.Interprocess_Communication]] | ✅     |
 | 3    | 2       |                                        |       |
 
-
+---
 ## Workshops
 
 | Week | Notes                          | Done? |
 | ---- | ------------------------------ | ----- |
 | 2    | [[WK2.WKSP1.OS_And_Processes]] | ❌     |
 
+---
 ## Useful Links
+

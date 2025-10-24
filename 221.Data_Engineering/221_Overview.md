@@ -1,5 +1,4 @@
-```table-of-contents
-```
+
 ---
 ## Lectures
 

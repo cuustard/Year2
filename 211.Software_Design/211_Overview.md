@@ -1,3 +1,5 @@
+
+---
 ## Lectures
 
 | Week | Lecture | Notes                                                   | Slides                                                          | Done? |
@@ -9,6 +11,7 @@
 | 3    | 1       | [[WK3.LC1.Software_Architecture]]                       | [[WK3.LC1.Software_Architecture.pdf\|Slides]]                   | ✅     |
 | 3    | 2       |                                                         |                                                                 |       |
 
+---
 ## Workshops
 
 | Week | Notes                                        | Done? |
@@ -16,4 +19,5 @@
 | 2    | [[WK2.WKSP1.Software_Requirements_Solution]] | ✅     |
 | 3    | [[WK3.WKSP1.Use_Cases]]                      | ❌     |
 
+---
 ## Useful Links
