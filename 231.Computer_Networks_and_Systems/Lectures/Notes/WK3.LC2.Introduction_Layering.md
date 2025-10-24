@@ -1,7 +1,8 @@
 ---
 date: 2025-12-24
-noted: false
+noted: true
 tags:
+  - week3
 ---
 ```table-of-contents
 ```
