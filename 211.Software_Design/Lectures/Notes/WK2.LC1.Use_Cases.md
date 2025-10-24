@@ -1,12 +1,16 @@
-#week2
+---
+date: 2025-10-15
+noted: true
+tags:
+  - week2
+---
+```table-of-contents
+```
 
 > [!info] Resources
 > [📊 PowerPoint](WK2.LC1.Use_Cases.pdf)
 > [📽️Lecture Recording]()
 
-```table-of-contents
-
-```
 ---
 ## Use Cases Overview
 

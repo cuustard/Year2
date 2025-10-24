@@ -1,3 +1,13 @@
+---
+date: 2025-10-10
+noted: false
+tags:
+  - week1
+  - "#doitlater"
+---
+```table-of-contents
+```
+
 > [!info] Resources
 > [⚒️ Workshop Task](211.Software_Design/Workshops/Slides/WK1.WKSP1.Software_Requirements.pdf)
 > [📽️Lecture Recording]([https://lancaster.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=649f371b-8e90-46ed-b7e8-b36600e31e4c&start=0](https://lancaster.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=649f371b-8e90-46ed-b7e8-b36600e31e4c&start=0))
@@ -5,8 +15,6 @@
 > [!info] Info
 > This lecture went over what we have to do for the [[WK2.WKSP1.Software_Requirements_Solution|Workshop]]. Visit that note to see our answers.
 
-```table-of-contents
-```
 ---
 ## Software Requirements Recap
 
@@ -80,5 +88,3 @@ When the local systems have secure network access, they use patient information 
 ---
 
 ## PlantUML
-
-#doitlater

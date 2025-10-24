@@ -11,7 +11,6 @@ tags:
 > [📊 PowerPoint](WK3.LC1.Software_Architecture.pdf)
 > [📽️Lecture Recording]()
 
-
 ---
 
 The software architecture of a system is a set of structures needed to reason about the system, which comprise software elements, relations amongst and properties of both. In laymen's terms:

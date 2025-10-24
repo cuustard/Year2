@@ -1,4 +1,11 @@
-#week1 
+---
+date: 2025-10-08
+noted: true
+tags:
+  - week1
+---
+```table-of-contents
+```
 
 > [!info] Resources
 > [📊 PowerPoint 1](WK1.LC1.Software_Requirements.pdf)
@@ -9,10 +16,6 @@
 > [!info] Required Reading
 > [📘 Software Engineering (10th Ed.), Ian Sommerville](GlobalEditionSoftwareEngineering10thEdition2016_IanSommerville.pdf)
 > [📘 Integrated Requirements Engineering: A Tutorial, by Ian Sommerville](IntegratedRequirementsEngineeringATutorial2005_IanSommerville.pdf)
-
-```table-of-contents
-
-```
 
 ---
 
