@@ -4,7 +4,7 @@
 ---
 # Year 2
 
-A shared [Obsidian](https://obsidian.md/)vault containing collaboratively maintained study notes and resources for **Year 2 Computer Science at Lancaster University**.
+A shared [Obsidian](https://obsidian.md/) vault containing collaboratively maintained study notes and resources for **Year 2 Computer Science at Lancaster University**.
 
 **Jake Evans**:
 - [LinkedIn](https:www.linkedin.com/in/jake-ethan-evans)
